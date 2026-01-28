@@ -1,6 +1,6 @@
 How BlueLink Messenger Works
 
-BlueLink Messenger is an upcoming messaging application created by Red Bud technologies, LLC.
+BlueLink Messenger is an upcoming messaging application created by Red Bud Technologies, LLC.
 
 The application enables users to send and receive messages in real-time through a centralized communication platform. All messages are securely stored in our database to ensure reliable message delivery and service continuity.
 
