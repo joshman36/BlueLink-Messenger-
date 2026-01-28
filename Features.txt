@@ -1,0 +1,29 @@
+BlueLink Messenger Features
+
+Core Features:
+- Messaging (SMS paid service *work in progress*)
+- RCS internet chat (free of charge)
+- Real-time messaging
+- Media and file sending
+- Secure user authentication
+- Message history and storage
+- User account management
+
+Moderation Features:
+- Content moderation for foul language
+- User banning capabilities
+- Message review system
+- Safe communication environment
+
+Platform Features:
+- Centralized message database
+- Reliable message delivery
+- Message persistence
+- Administrative controls
+- Social post wall (later updates will include it)
+
+Security & Privacy:
+- All messages stored in secure database
+- User data protection measures
+- Terms of Service compliance
+- Moderation for user safety
