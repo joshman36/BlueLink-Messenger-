@@ -1,0 +1,25 @@
+BlueLink Messenger Features
+
+Core Features:
+- Real-time messaging
+- Secure user authentication
+- Message history and storage
+- User account management
+
+Moderation Features:
+- Content moderation for foul language
+- User banning capabilities
+- Message review system
+- Safe communication environment
+
+Platform Features:
+- Centralized message database
+- Reliable message delivery
+- Message persistence
+- Administrative controls
+
+Security & Privacy:
+- All messages stored in secure database
+- User data protection measures
+- Terms of Service compliance
+- Moderation for user safety
